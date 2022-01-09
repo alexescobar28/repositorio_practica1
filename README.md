@@ -1,1 +1,1 @@
-# repositorio_practica1
+este repositorio corresponder al primer ejercicio usando github 
